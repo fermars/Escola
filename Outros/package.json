@@ -1,0 +1,16 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "contributors": [
+    {
+      "name": "Vinicius Henrique P. Giroto",
+      "email": "viniciusgiroto@outlook.com"
+    }
+  ],
+  "license": "ISC"
+}
