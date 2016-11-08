@@ -3,9 +3,10 @@ Sistema Escolar
 
 ## Back end
 ##### Banco de Dados
-- [ ] Secretaria ![60%](http://progressed.io/bar/60)
+- [x] Funcionários
+- [ ] Secretaria
 - [ ] Alunos
-- [ ] Professores
+- [x] Professores
 - [ ] Aulas
 - [ ] Salas
 - [ ] Materias
