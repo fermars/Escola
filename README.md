@@ -4,18 +4,18 @@ Sistema Escolar
 ## Back end
 ##### Banco de Dados
 - [x] Funcionários
-- [ ] Secretaria
-- [ ] Alunos
+- [x] Secretaria
+- [x] Alunos
 - [x] Professores
-- [ ] Aulas
-- [ ] Salas
-- [ ] Materias
-- [ ] Cursos
-- [ ] Avalicações
-- [ ] Notas
-- [ ] Calendário Escolar
-- [ ] Cantina
-- [ ] Biblioteca
+- [x] Aulas
+- [x] Salas
+- [x] Matérias
+- [x] Cursos
+- [x] Avalicações
+- [x] Notas
+- [x] Calendário Escolar
+- [x] Cantina
+- [x] Biblioteca
 - [ ] APM
 
 ## Front end
