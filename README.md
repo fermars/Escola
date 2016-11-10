@@ -14,45 +14,33 @@ Sistema Escolar
 - [x] Avalicações
 - [x] Notas
 - [x] Calendário Escolar
-- [x] Cantina
-- [x] Biblioteca
 - [ ] APM
+- [ ] Chat
+- [ ] Grêmio
+- [ ] Represensante de classe
 
 ## Front end
 ##### Funções
-- [ ] Biblioteca (fácil)
-	- [ ] Doar livro
-		- [ ] Foto
-		- [ ] Livro
-	- [ ] Reservar livro
-	- [ ] Arsenal de livros
-  	- [ ] Nome
-  	- [ ] Autor
-  	- [ ] Ano
-  	- [ ] Quantidade disponível
-  	- [ ] Quando estará disponível
-- [ ] Secretaria (médio)
+- [ ] Secretaria
   - [ ] Requerimento de documentos
-  - [ ] Marcar reunião
-- [ ] Alunos/Pais (fácil)
+  - [ ] Segunda chamada
+- [ ] Alunos
   - [ ] Boletim
   - [ ] Trabalhos
   - [ ] Controle de presença
   - [ ] Horários
-- [ ] Professor (fácil)
+- [ ] Professor
   - [ ] Marcar avaliação
   - [ ] Notificação
   - [ ] Chamada
-- [ ] Calendário escolar (fácil)
+- [ ] Calendário escolar
   - [ ] Eventos
   - [ ] Provas
   - [ ] Faltas agendadas de professores
-- [ ] Cantina (fácil)
-	- [ ] Fazer "pacote"
-- [ ] APM (fácil)
+- [ ] APM
   - [ ] Controle de gastos
   - [ ] Doação
   - [ ] Projetos
-- [ ] APK (no idea)
+- [ ] APK
 	- [ ] Tudo do site
-	- [ ] Transferir eventos para calendario
+	- [ ] Transferir eventos para calendário
