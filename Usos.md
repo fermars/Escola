@@ -1,5 +1,5 @@
 Nome | Link
-- | -
+---- | ----
 jQuery | [Link](http://jquery.com/)
 jQuery Sparklines | [Link](http://omnipotent.net/jquery.sparkline/#s-about)
 Bootstrap | [Link](http://getbootstrap.com/)
